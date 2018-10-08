@@ -2,9 +2,13 @@
   "name": "parse-s3-bucket-key",
   "version": "0.0.1",
   "description": "Parse Bucket and Key from an S3 object link.",
-  "main": "index.js",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiegoZoracKy/parse-s3-bucket-key"
+  },
   "scripts": {
-    "test": "node test.js"
+    "test": "node ./test/main.js"
   },
   "author": {
     "name": "Diego ZoracKy",

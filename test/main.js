@@ -1,6 +1,6 @@
 'use strict';
 
-const parseS3BucketKey = require('.');
+const parseS3BucketKey = require('../');
 const assert = require('assert');
 
 
