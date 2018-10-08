@@ -15,5 +15,13 @@
     "email": "diego.zoracky@gmail.com",
     "url": "https://github.com/DiegoZoracKy/"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "aws",
+    "s3",
+    "bucket",
+    "key",
+    "path",
+    "name"
+  ]
 }
