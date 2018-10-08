@@ -1,5 +1,7 @@
 # parse-s3-bucket-key
 
+[![Build Status](https://api.travis-ci.org/DiegoZoracKy/parse-s3-bucket-key.svg)](https://travis-ci.org/DiegoZoracKy/parse-s3-bucket-key) [![npm](https://img.shields.io/npm/v/parse-s3-bucket-key.svg)]() [![npm](https://img.shields.io/npm/l/parse-s3-bucket-key.svg)]()
+
 Parse Bucket and Key from an S3 object link.
 
 
